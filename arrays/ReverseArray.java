@@ -5,7 +5,7 @@ public class ReverseArray {
         int[] a = {1, 2, 3, 4, 5};
         for (int element : a) System.out.print(element + "\t");
         reverseArray(a);
-        System.out.println("after reverse:");
+        System.out.println("\nafter reverse:");
         for (int element : a) System.out.print(element + "\t");
     }
 
