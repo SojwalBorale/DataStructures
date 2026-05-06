@@ -1,2 +1,12 @@
 .idea/DataStructures.iml
 
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Build output
+/out/
+/target/
+
+# Logs
+*.log
