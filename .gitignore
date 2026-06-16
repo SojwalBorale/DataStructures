@@ -1,12 +1,7 @@
-.idea/DataStructures.iml
+# Ignore compiled Java class files
+*.class
 
-# IntelliJ IDEA project files
-.idea/
-*.iml
-
-# Build output
+# Ignore IntelliJ output folders
 /out/
-/target/
-
-# Logs
-*.log
+/out/test/
+/out/test/DataStructures/
